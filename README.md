@@ -17,7 +17,6 @@ This project is a basic implementation of an **Authentication**, **Authorization
 - **SQLite**: Relational database for storing user, role, and user-role data.
 - **bcryptjs**: Library for hashing passwords.
 - **jsonwebtoken**: Library for creating and verifying JSON Web Tokens (JWT).
-- **express-validator**: Middleware for validating user inputs.
 
 ## Prerequisites
 
