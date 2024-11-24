@@ -43,6 +43,9 @@ This project is a basic implementation of an **Authentication**, **Authorization
 4. **Database Setup**
    The SQLite database (`rbac_system.db`) is created automatically when the server runs for the first time.
 
+5. **Deployed Version**
+   You can access the deployed version of this application at: [RBAC System on Render](https://rbac-system-w98q.onrender.com)
+
 ## Endpoints
 
 ### User Registration
